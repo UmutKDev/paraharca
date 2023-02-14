@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[url('../../public/background.png')];
+  @apply flex flex-col items-center justify-center;
+  @apply w-full;
+  @apply space-y-12
+
+}
