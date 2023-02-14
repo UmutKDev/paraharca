@@ -1,0 +1,92 @@
+export const Products: Product[] = [
+  {
+    id: 1,
+    title: "Ekmek",
+    price: 1,
+    image: "/products/ekmek.jpg",
+  },
+  {
+    id: 2,
+    title: "1 Litre Süt",
+    price: 3,
+    image: "/products/sut.jpg",
+  },
+  {
+    id: 3,
+    title: "Altın Musluk",
+    price: 1500,
+    image: "/products/altin_musluk.jpg",
+  },
+  {
+    id: 4,
+    title: "iPhone 12 Pro Max 512 GB",
+    price: 2500,
+    image: "/products/iphone12.jpg",
+  },
+  {
+    id: 5,
+    title: "Big Mac",
+    price: 5,
+    image: "/products/bigmac.jpg",
+  },
+  {
+    id: 6,
+    title: "BionTech Aşı (2 Doz)",
+    price: 50,
+    image: "/products/biontech.jpg",
+  },
+  {
+    id: 7,
+    title: "Gemi",
+    price: 80000000,
+    image: "/products/gemicik.jpg",
+  },
+  {
+    id: 8,
+    title: "Burj Khalifa",
+    price: 1500000000,
+    image: "/products/burjkhalifa.jpg",
+  },
+  {
+    id: 9,
+    title: "Lil Uzi Vert’in Alnındaki Elmas",
+    price: 24000000,
+    image: "/products/uzivert.jpg",
+  },
+  {
+    id: 10,
+    title: "NeymarJr",
+    price: 263000000,
+    image: "/products/neymarjr.jpg",
+  },
+  {
+    id: 11,
+    title: "Instagram",
+    price: 100000000000,
+    image: "/products/ig.jpg",
+  },
+  {
+    id: 12,
+    title: "Twitter",
+    price: 41000000000,
+    image: "/products/twitter.jpg",
+  },
+  {
+    id: 13,
+    title: "Osmangazi Köprüsü",
+    price: 1200000000,
+    image: "/products/osmangazi.jpg",
+  },
+  {
+    id: 14,
+    title: "İstanbul Hava Limanı",
+    price: 12250000000,
+    image: "/products/havalimani.jpg",
+  },
+  {
+    id: 15,
+    title: "İstanbul-İzmir Otoyolu",
+    price: 11000000000,
+    image: "/products/duble.jpg",
+  },
+];
