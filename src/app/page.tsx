@@ -21,7 +21,7 @@ const Home = () => {
       }, 0)
     );
   }, [basket, products]);
-  
+
   return (
     <main className="space-y-8 w-9/12">
       <Hero />
@@ -34,7 +34,7 @@ const Home = () => {
         setBasket={setBasket}
       />
       <Basket total={total} basket={basket} products={products} />
-      <SweetAlert basket={basket} money={money} products={products} setBasket={setBasket} total={total} />
+      <SweetAlert basket={basket} money={money} setBasket={setBasket} total={total} />
     </main>
   );
 };
