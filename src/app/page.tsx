@@ -9,7 +9,7 @@ import { Products as ProductsData } from "@/data/products";
 
 const Home = () => {
   const [products, setProducts] = useState<Product[]>(ProductsData);
-  const [money, setMoney] = useState(128000000000);
+  const [money, setMoney] = useState(100000000000);
   const [basket, setBasket] = useState<Basket[]>([]);
   const [total, setTotal] = useState<number>(0);
 
