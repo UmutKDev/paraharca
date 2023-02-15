@@ -16,8 +16,8 @@ export const NEXT_SEO_DEFAULT: NextSeoProps = {
     images: [
       {
         url: "https://paraharca.umutk.me/images/logo.png",
-        width: 1200,
-        height: 630,
+        width: 512,
+        height: 512,
         alt: "Paraharca uygulaması",
       },
     ],
